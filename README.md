@@ -17,5 +17,12 @@ Project 1 for Fintech Bootcamp
 
 2. How do interest rates affect the housing market in Ontario?
 
+![HPI Percent Change](Images/HPIPercentChange.png "HPI Percent Change")
+
+![Interest Rates](Images/InterestRates.png "Interest Rates")
+
+![Hea tMap](Images/HeatMap.png "Correlation Heat Map")
 
 3. Where is the housing market trending? 
+
+![Monte Carlo Simulation](Images/MonteCarlo.png "Monte Carlo Simulation")
