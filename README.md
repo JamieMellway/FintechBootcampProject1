@@ -1,15 +1,21 @@
-# FintechBootcampProject1
+# Ontario Housing Market Analysis
 Project 1 for Fintech Bootcamp
 
-![alt text](Images/CompositeHousePriceIndex_no_text.png "Title")
+1. What are the trends for Ontario real estate for 2005-2023?
 
-![alt text](Images/CompositeHousePriceIndex.png "Title")
+![Composite House Price Index](Images/CompositeHousePriceIndex_no_text.png "Composite House Price Index")
 
-![alt text](Images/OntarioHPI.png "Title")
+![Composite House Price Index (with text)](Images/CompositeHousePriceIndex.png "Composite House Price Index")
 
-![alt text](Images/OntarioHPI_with_text.png "Title")
+![Ontario HPI](Images/OntarioHPI.png "Ontario HPI")
 
-![alt text](Images/OntarioBenchmarks.png "Title")
+![Ontario HPI (with text)](Images/OntarioHPI_with_text.png "Ontario HPI")
 
-![alt text](Images/OntarioMap.png "Title")
+![Ontario Benchmarks](Images/OntarioBenchmarks.png "Ontario Benchmarks")
 
+![Ontario Map](Images/OntarioMap.png "Ontario Map")
+
+2. How do interest rates affect the housing market in Ontario?
+
+
+3. Where is the housing market trending? 
