@@ -1,6 +1,15 @@
 # Ontario Housing Market Analysis
 Project 1 for Fintech Bootcamp
 
+### Concise Project Overview
+Analyzing Ontario Real Estate data for trends (monthly and regional), correlation with inflation, and projected trends.
+
+### Installation instructions
+Beyond the libraries used in the course, this project uses the GeoPy library. To install GeoPy use:<br>
+pip install geopy<br>
+conda config --add channels conda-forge<br>
+conda install -c conda-forge geopy
+
 ### 1a. What are the trends for Ontario real estate for 2005-2023? (Monthly)
 
 ![Composite House Price Index](Images/CompositeHousePriceIndex_no_text.png "Composite House Price Index")
